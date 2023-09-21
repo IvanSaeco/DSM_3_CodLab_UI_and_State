@@ -1,5 +1,7 @@
 # DSM_3_CodLab_UI_and_State
 3° CodLab: UI and State
+
+Luis Angel Mayta Chipana - 20200007
 [20200007_.pdf](https://github.com/IvanSaeco/DSM_3_CodLab_UI_and_State/files/12679143/20200007_.pdf)
 ![20200007](https://github.com/IvanSaeco/DSM_3_CodLab_UI_and_State/assets/116394504/ccc90e13-43fa-428d-90ff-4fd1df002f2b)
 
@@ -10,3 +12,7 @@ Ivan Diego Saenz Cotrina - 20200095
 Fabrizzio Josias Quintana Vilca - 20200116
 ![image](https://github.com/IvanSaeco/DSM_3_CodLab_UI_and_State/assets/104164469/1f04c10d-191f-44e5-bc67-8865a923183d)
 [Interactúa con la IU y el estado  _  Android Developers - 20200116.pdf](https://github.com/IvanSaeco/DSM_3_CodLab_UI_and_State/files/12679314/Interactua.con.la.IU.y.el.estado._.Android.Developers.-.20200116.pdf)
+
+Dylan Bruno Gonzales Camarena - 20200113
+[PRUEBA_20200113.pdf](https://github.com/IvanSaeco/DSM_3_CodLab_UI_and_State/files/12679324/PRUEBA_20200113.pdf)
+![PNG_PRUEBA_20200113](https://github.com/IvanSaeco/DSM_3_CodLab_UI_and_State/assets/102079468/0dbc401b-b0df-4f88-ab98-0af18062ae89)
